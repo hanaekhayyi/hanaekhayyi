@@ -212,23 +212,6 @@ hanae = {
 
 ---
 
-<h3 align="left">📊 GitHub Activity</h3>
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=hanaekhayyi&show_icons=true&hide_border=true"
-    alt="Hanae's GitHub statistics"
-  />
-
-<img
- width="48%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaekhayyi&layout=compact&hide_border=true"
- alt="Hanae's most used languages"
-/>
-
-</p>
-
 ---
 
 <p align="center">

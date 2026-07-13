@@ -215,9 +215,9 @@ hanae = {
 ---
 
 <p align="center">
-  <strong><img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23000000" width="20" height="20" valign="middle"/> Learn. Build. Experiment. Improve.</strong>
+  <strong><img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23000000" width="20" height="20" valign="middle"/>💡 Learn. Build. Experiment. Improve.</strong>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile <img src="https://api.iconify.design/mdi/creation.svg?color=%23000000" width="18" height="18" valign="middle"/>
+  Thanks for visiting my profile ✨<img src="https://api.iconify.design/mdi/creation.svg?color=%23000000" width="18" height="18" valign="middle"/>
 </p>

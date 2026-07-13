@@ -39,7 +39,7 @@ alt="Data and AI illustration"
     />
   </a>
 
-  <a href="[https://www.linkedin.com/in/hanae-khayyi](https://www.linkedin.com/in/hanae-khayyi-a76241241/)/" target="_blank">
+  <a href="https://www.linkedin.com/in/hanae-khayyi-a76241241/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"

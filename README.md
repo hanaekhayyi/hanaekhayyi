@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hanae Khayyi</h1>
+<h1 align="center"><img src="https://api.iconify.design/mdi/hand-wave.svg?color=%23FFC107" width="32" height="32" valign="middle"/> Hi, I'm Hanae Khayyi</h1>
 
 <h3 align="center">
-  Data & AI Engineer from Morocco 🇲🇦
+  Data & AI Engineer from Morocco <img src="https://flagcdn.com/24x18/ma.png" width="24" height="18" valign="middle"/>
 </h3>
 
 <p align="center">
@@ -15,21 +15,21 @@ src="https://i.pinimg.com/564x/bc/8e/6e/bc8e6ed0f0c3ed9a79462c4af6a79819.jpg"
 alt="Data and AI illustration"
 />
 
-### 👩‍💻 About me
+### <img src="https://api.iconify.design/mdi/account-circle.svg?color=%23000000" width="22" height="22" valign="middle"/> About me
 
-* 🎓 Data Science & Artificial Intelligence Engineer
-* 🤖 Passionate about **Generative AI, LLMs and intelligent agents**
-* ⚙️ Interested in **Data Engineering and real-time pipelines**
-* 📊 Turning complex data into clear and useful insights
-* 🌱 Currently exploring new tools and technologies in the Data & AI ecosystem
-* 💡 I enjoy building solutions that connect **data, intelligence and business needs**
-* 📫 Reach me at **[hanaekhayyi7@gmail.com](mailto:hanaekhayyi7@gmail.com)**
+* <img src="https://api.iconify.design/mdi/school.svg?color=%23000000" width="18" height="18" valign="middle"/> Data Science & Artificial Intelligence Engineer
+* <img src="https://api.iconify.design/mdi/robot.svg?color=%23000000" width="18" height="18" valign="middle"/> Passionate about **Generative AI, LLMs and intelligent agents**
+* <img src="https://api.iconify.design/mdi/cog.svg?color=%23000000" width="18" height="18" valign="middle"/> Interested in **Data Engineering and real-time pipelines**
+* <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23000000" width="18" height="18" valign="middle"/> Turning complex data into clear and useful insights
+* <img src="https://api.iconify.design/mdi/sprout.svg?color=%23000000" width="18" height="18" valign="middle"/> Currently exploring new tools and technologies in the Data & AI ecosystem
+* <img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23000000" width="18" height="18" valign="middle"/> I enjoy building solutions that connect **data, intelligence and business needs**
+* <img src="https://api.iconify.design/mdi/email.svg?color=%23000000" width="18" height="18" valign="middle"/> Reach me at **[hanaekhayyi7@gmail.com](mailto:hanaekhayyi7@gmail.com)**
 
 <br clear="right"/>
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="left"><img src="https://api.iconify.design/mdi/web.svg?color=%23000000" width="22" height="22" valign="middle"/> Connect with me</h3>
 
 <p align="left">
   <a href="mailto:hanaekhayyi7@gmail.com">
@@ -56,27 +56,27 @@ alt="Data and AI illustration"
 
 ---
 
-<h3 align="left">✨ What I enjoy building</h3>
+<h3 align="left"><img src="https://api.iconify.design/mdi/creation.svg?color=%23000000" width="22" height="22" valign="middle"/> What I enjoy building</h3>
 
 <p align="left">
-  🧠 Intelligent applications powered by Large Language Models
+  <img src="https://api.iconify.design/mdi/brain.svg?color=%23000000" width="18" height="18" valign="middle"/> Intelligent applications powered by Large Language Models
   <br/>
-  🔍 RAG systems for document search and knowledge extraction
+  <img src="https://api.iconify.design/mdi/magnify.svg?color=%23000000" width="18" height="18" valign="middle"/> RAG systems for document search and knowledge extraction
   <br/>
-  🤝 Multi-agent systems for automated workflows
+  <img src="https://api.iconify.design/mdi/handshake.svg?color=%23000000" width="18" height="18" valign="middle"/> Multi-agent systems for automated workflows
   <br/>
-  ⚡ Real-time and batch data pipelines
+  <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23000000" width="18" height="18" valign="middle"/> Real-time and batch data pipelines
   <br/>
-  📈 Machine Learning and NLP solutions
+  <img src="https://api.iconify.design/mdi/chart-line.svg?color=%23000000" width="18" height="18" valign="middle"/> Machine Learning and NLP solutions
   <br/>
-  📊 Interactive dashboards and decision-support tools
+  <img src="https://api.iconify.design/mdi/view-dashboard.svg?color=%23000000" width="18" height="18" valign="middle"/> Interactive dashboards and decision-support tools
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left"><img src="https://api.iconify.design/mdi/tools.svg?color=%23000000" width="22" height="22" valign="middle"/> Languages and Tools</h3>
 
-<h4>💻 Programming</h4>
+<h4><img src="https://api.iconify.design/mdi/laptop.svg?color=%23000000" width="20" height="20" valign="middle"/> Programming</h4>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -96,7 +96,7 @@ alt="Data and AI illustration"
   </a>
 </p>
 
-<h4>🤖 Artificial Intelligence & Machine Learning</h4>
+<h4><img src="https://api.iconify.design/mdi/robot.svg?color=%23000000" width="20" height="20" valign="middle"/> Artificial Intelligence & Machine Learning</h4>
 
 <p align="left">
   <a href="https://pytorch.org/" target="_blank">
@@ -125,7 +125,7 @@ alt="Data and AI illustration"
   <code>NLP</code>
 </p>
 
-<h4>⚙️ Data Engineering & Big Data</h4>
+<h4><img src="https://api.iconify.design/mdi/cog.svg?color=%23000000" width="20" height="20" valign="middle"/> Data Engineering & Big Data</h4>
 
 <p align="left">
   <a href="https://spark.apache.org/" target="_blank">
@@ -145,7 +145,7 @@ alt="Data and AI illustration"
   </a>
 </p>
 
-<h4>🗄️ Databases</h4>
+<h4><img src="https://api.iconify.design/mdi/database.svg?color=%23000000" width="20" height="20" valign="middle"/> Databases</h4>
 
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank">
@@ -165,7 +165,7 @@ alt="Data and AI illustration"
   </a>
 </p>
 
-<h4>☁️ Cloud, DevOps & Business Intelligence</h4>
+<h4><img src="https://api.iconify.design/mdi/cloud.svg?color=%23000000" width="20" height="20" valign="middle"/> Cloud, DevOps & Business Intelligence</h4>
 
 <p align="left">
   <a href="https://azure.microsoft.com/" target="_blank">
@@ -190,7 +190,7 @@ alt="Data and AI illustration"
 
 ---
 
-<h3 align="left">🚀 Current focus</h3>
+<h3 align="left"><img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23000000" width="22" height="22" valign="middle"/> Current focus</h3>
 
 ```python
 hanae = {
@@ -215,9 +215,9 @@ hanae = {
 ---
 
 <p align="center">
-  <strong>💡 Learn. Build. Experiment. Improve.</strong>
+  <strong><img src="https://api.iconify.design/mdi/lightbulb-on.svg?color=%23000000" width="20" height="20" valign="middle"/> Learn. Build. Experiment. Improve.</strong>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile ✨
+  Thanks for visiting my profile <img src="https://api.iconify.design/mdi/creation.svg?color=%23000000" width="18" height="18" valign="middle"/>
 </p>
